@@ -16,4 +16,4 @@ Install the extension from the [Marketplace](https://marketplace.visualstudio.co
 
 #### Default Theme:
 
-![App Screenshot](https://i.postimg.cc/DWZCrr6T/default-theme.png)
+![App Screenshot](https://i.postimg.cc/zfw91pRV/default-theme.png)
