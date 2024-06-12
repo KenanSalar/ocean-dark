@@ -1,0 +1,54 @@
+{
+  "name": "ocean-dark",
+  "displayName": "Ocean Dark",
+  "description": "A nice relaxing theme, which is easy on the eyes",
+  "icon": "resources/ocean-dark-logo.png",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "kenan-salar",
+  "keywords": [
+    "ocean",
+    "dark",
+    "theme",
+    "deep blue",
+    "color",
+    "syntax",
+    "highlighting",
+    "dark theme",
+    "color theme",
+    "syntax highlighting",
+    "ocean dark theme",
+    "ocean dark syntax",
+    "ocean dark highlighting",
+    "ocean dark color",
+    "ocean dark syntax highlighting",
+    "ocean dark dark theme",
+    "ocean dark color theme",
+    "ocean dark syntax highlighting theme",
+    "ocean dark syntax highlighting theme",
+    "beautiful",
+    "beautiful theme",
+    "beautiful syntax highlighting",
+    "beautiful dark theme",
+    "readable",
+    "readable theme",
+    "readable syntax highlighting",
+    "readable dark theme",
+    "relaxing",
+    "relaxing theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ocean Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ocean Dark-color-theme.json"
+      }
+    ]
+  }
+}
