@@ -3,6 +3,14 @@
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
 
+### Version 0.1.4
+
+### Changes
+
+- Changed constant fontstyle to italic
+- Changed JSON level 0-5 colors
+
+
 ### Version 0.1.3
 
 ### Changes
