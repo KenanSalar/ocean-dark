@@ -3,6 +3,13 @@
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
 
+### Version 0.1.2
+
+### Changes
+
+- Changed banner picture url
+
+
 ### Version 0.1.1
 
 ### Changes

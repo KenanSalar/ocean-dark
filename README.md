@@ -1,4 +1,4 @@
-![Logo](https://i.postimg.cc/BXTw4Qbd/ocean-dark-title.png)
+![Logo](https://i.postimg.cc/zX6mwyrX/ocean-dark-title.png)
 
 # Ocean Dark
 
