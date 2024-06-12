@@ -3,6 +3,16 @@
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
 
+### Version 0.1.5
+
+### Changes
+
+- Changed Block Level Variable color to #c57074
+- Changed Other Variable, String Link colors to #c57074
+- Changed JSON Key - Level 1 coolor to #739b53
+- Added support colors (for now #3ca8a8)
+
+
 ### Version 0.1.4
 
 ### Changes
