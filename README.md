@@ -1,4 +1,4 @@
-![Logo](https://i.postimg.cc/gcy2X52M/ocean-dark-title.png)
+![Logo](https://i.postimg.cc/BXTw4Qbd/ocean-dark-title.png)
 
 # Ocean Dark
 
@@ -9,11 +9,11 @@ With this theme you can code at night without straining your eyes.
 
 ## Installation
 
-Install the extension from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=kenan-salar.arctic-candy-dark)  
+Install the extension from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=kenan-salar.ocean-dark)  
 **Don't forget to enable semantic highlighting.**
 
 ## Screenshots
 
 #### Default Theme:
 
-![App Screenshot](https://i.postimg.cc/xjJYS4Wx/default-theme.png)
+![App Screenshot](https://i.postimg.cc/DWZCrr6T/default-theme.png)
