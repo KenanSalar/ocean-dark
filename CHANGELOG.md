@@ -3,6 +3,13 @@
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
 
+### Version 0.2.1
+
+### Changes
+
+- Adjusted enum and enum member colors to #a87290 and #ad879c
+
+
 ### Version 0.2.0
 
 ### Changes

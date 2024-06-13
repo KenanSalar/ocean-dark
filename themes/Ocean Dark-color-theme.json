@@ -568,7 +568,7 @@
       "name": "enum",
       "scope": ["variable.other.enum", "entity.name.type.enum"],
       "settings": {
-        "foreground": "#aa678c",
+        "foreground": "#a87290",
         "fontStyle": "bold"
       }
     },
@@ -576,7 +576,7 @@
       "name": "enum member",
       "scope": ["variable.other.enummember", "entity.name.type.enummember"],
       "settings": {
-        "foreground": "#af7b98",
+        "foreground": "#ad879c",
         "fontStyle": "italic"
       }
     },
@@ -1590,11 +1590,11 @@
       "fontStyle": "bold"
     },
     "enum": {
-      "foreground": "#aa678c",
+      "foreground": "#a87290",
       "fontStyle": "bold"
     },
     "enumMember": {
-      "foreground": "#af7b98",
+      "foreground": "#ad879c",
       "fontStyle": "italic"
     },
     "event": {
