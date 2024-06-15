@@ -3,6 +3,23 @@
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
 
+### Version 0.3.0
+
+### Changes
+
+- Changed css attribute id and punctuation to #a0a77d
+- Changed css attribute class and punctuation to #72aa8b
+- Changed markdown - fenced bode block variable to #bebebe
+- Changed markup - raw block to #9d7bb6
+- Changed markdown - link anchor to #bba06d
+- Changed markdown - link description to #9e7bb6
+- Changed markdown - link to #8598c2
+- Changed markup - underline, bold-italic, bold and italic to #ac686c
+- Changed markdown - heading to #8fa175
+- Changed markdown - markup raw inline to #9175a3
+- Changed markup - plain to #bbc5ce
+
+
 ### Version 0.2.1
 
 ### Changes
