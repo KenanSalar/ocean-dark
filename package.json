@@ -3,7 +3,7 @@
   "displayName": "Ocean Dark",
   "description": "A nice relaxing theme, which is easy on the eyes",
   "icon": "resources/ocean-dark-logo.png",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "engines": {
     "vscode": "^1.90.0"
   },

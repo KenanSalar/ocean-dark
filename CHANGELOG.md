@@ -3,6 +3,14 @@
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
 
+### Version 0.3.1
+
+### Changes
+
+- Changed terminal ansi colors to milder colors
+- Changed regex color to #bd9676 and made it italic
+- Changed regular exppressions to italic for now
+
 ### Version 0.3.0
 
 ### Changes

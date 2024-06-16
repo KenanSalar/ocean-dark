@@ -99,7 +99,7 @@
     "editorInlayHint.parameterForeground": "#a9b8c5c2",
     "editorGhostText.border": "#00000000",
     "editorGhostText.foreground": "#d1d2d470",
-    "editorCursor.background": "#90b2c2",
+    "editorCursor.background": "#90a0c2",
 
     "editorBracketHighlight.foreground1": "#7b8fb9",
     "editorBracketHighlight.foreground2": "#6ea892",
@@ -140,7 +140,7 @@
     "editorBracketMatch.background": "#90b2c240",
     "editorBracketMatch.border": "#90b2c260",
     "editorCodeLens.foreground": "#b7b9bb80",
-    "editorCursor.foreground": "#7d87ac",
+    "editorCursor.foreground": "#7d97ac",
     "editorGroup.border": "#0f1920",
     "editorGroup.dropBackground": "#90b2c215",
     "editorHoverWidget.background": "#141e27",
@@ -358,26 +358,26 @@
     "tab.lastPinnedBorder": "#0f1013a1",
 
     "terminal.ansiBlack": "#000a10",
-    "terminal.ansiRed": "#cf4d4d",
-    "terminal.ansiGreen": "#69ce85",
-    "terminal.ansiYellow": "#d4d456",
-    "terminal.ansiBlue": "#56a5da",
-    "terminal.ansiMagenta": "#aa7fcf",
-    "terminal.ansiCyan": "#48c9c2",
-    "terminal.ansiWhite": "#cbcbcc",
+    "terminal.ansiRed": "#c27171",
+    "terminal.ansiGreen": "#69ad7d",
+    "terminal.ansiYellow": "#b6b66a",
+    "terminal.ansiBlue": "#6a9bbb",
+    "terminal.ansiMagenta": "#9374ad",
+    "terminal.ansiCyan": "#5eafab",
+    "terminal.ansiWhite": "#b8b8b8",
     "terminal.ansiBrightBlack": "#414753",
-    "terminal.ansiBrightRed": "#d16060",
-    "terminal.ansiBrightGreen": "#83df9d",
-    "terminal.ansiBrightYellow": "#e7e691",
-    "terminal.ansiBrightBlue": "#82bde4",
-    "terminal.ansiBrightMagenta": "#bfa6d8",
-    "terminal.ansiBrightCyan": "#72e9e3",
-    "terminal.ansiBrightWhite": "#ececec",
+    "terminal.ansiBrightRed": "#d49696",
+    "terminal.ansiBrightGreen": "#90cfa2",
+    "terminal.ansiBrightYellow": "#dddc9a",
+    "terminal.ansiBrightBlue": "#91b7cf",
+    "terminal.ansiBrightMagenta": "#bca5d3",
+    "terminal.ansiBrightCyan": "#96dad6",
+    "terminal.ansiBrightWhite": "#e2e2e2",
     "terminal.background": "#000a10",
-    "terminal.foreground": "#d1d2d4",
+    "terminal.foreground": "#bbc5ce",
     "terminalCursor.background": "#000a10",
-    "terminalCursor.foreground": "#7d87ac",
-    "terminal.selectionForeground": "#d1d2d4",
+    "terminalCursor.foreground": "#7d97ac",
+    "terminal.selectionForeground": "#bbc5ce",
 
     "textBlockQuote.background": "#63c0ff34",
     "textBlockQuote.border": "#63c0ffb9",
@@ -528,7 +528,8 @@
         "entity.other.attribute-name.mjml",
         "source.vue meta.directive punctuation.separator.key-value",
         "meta.definition.attribute-entry punctuation.separator",
-        "support.constant.property-value"
+        "support.constant.property-value",
+        "constant.character.character-class.regexp"
       ],
       "settings": {
         "foreground": "#bd9676",
@@ -1152,7 +1153,8 @@
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#6fb4cf"
+        "foreground": "#76b1c9",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1651,6 +1653,10 @@
       "foreground": "#bbc5ce",
       "fontStyle": ""
     },
+    "regexCharacterClass": {
+      "foreground": "#bd9676",
+      "fontStyle": "italic"
+    },
     "markupComment": {
       "foreground": "#ffefe473",
       "fontStyle": "italic"
@@ -1716,6 +1722,6 @@
     "xmlDocCommentAttributeName": "#c47bca",
     "xmlDocCommentAttributeValue": "#8cbd96",
     "xmlDocCommentAttributeQuotes": "#b99363",
-    "xmlDocCommentDelimiter": "#8f9b8a"
+    "xmlDocCommentDelimiter": "#8f9b8a",
   }
 }
