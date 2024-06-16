@@ -3,6 +3,13 @@
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
 
+### Version 0.3.2
+
+### Changes
+
+- Changed struct color to #7273a7
+
+
 ### Version 0.3.1
 
 ### Changes

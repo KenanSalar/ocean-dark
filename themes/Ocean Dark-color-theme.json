@@ -560,7 +560,7 @@
       "name": "struct",
       "scope": ["variable.other.struct", "entity.name.type.struct"],
       "settings": {
-        "foreground": "#9c6694",
+        "foreground": "#7273a7",
         "fontStyle": "bold"
       }
     },
@@ -1539,7 +1539,7 @@
       "fontStyle": "bold"
     },
     "struct": {
-      "foreground": "#9c6694",
+      "foreground": "#7273a7",
       "fontStyle": "bold"
     },
     "recordStruct": {
