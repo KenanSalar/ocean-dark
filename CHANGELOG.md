@@ -3,6 +3,22 @@
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
 
+### Version 0.4.0
+
+### Changes
+
+- Changed struct color to #996770
+- Changed recordStruct color to #bb9da2
+- Changed record color to #b37caa
+- Changed recordComponent color to #c28eba
+- Changed module color to #9db178
+- Changed enum color to #a89b72
+- Changed enumMembner color to #b9b092
+- Changed property color to #a297be
+- Changed recordClass color to #5092a8 and made it bold and italic
+
+
+
 ### Version 0.3.2
 
 ### Changes

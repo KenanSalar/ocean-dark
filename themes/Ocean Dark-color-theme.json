@@ -514,7 +514,6 @@
         "support.class.math",
         "source.graphql constant.character",
         "source.reason constant.language.list",
-        "source.cpp variable.other.enummember",
         "support.variable.class.hideshow",
         "entity.other.attribute-name.class",
         "meta.attribute.id entity.other.attribute-name",
@@ -560,7 +559,7 @@
       "name": "struct",
       "scope": ["variable.other.struct", "entity.name.type.struct"],
       "settings": {
-        "foreground": "#7273a7",
+        "foreground": "#996770",
         "fontStyle": "bold"
       }
     },
@@ -568,7 +567,7 @@
       "name": "enum",
       "scope": ["variable.other.enum", "entity.name.type.enum"],
       "settings": {
-        "foreground": "#a87290",
+        "foreground": "#a89b72",
         "fontStyle": "bold"
       }
     },
@@ -576,7 +575,7 @@
       "name": "enum member",
       "scope": ["variable.other.enummember", "entity.name.type.enummember"],
       "settings": {
-        "foreground": "#ad879c",
+        "foreground": "#b9b092",
         "fontStyle": "italic"
       }
     },
@@ -835,7 +834,7 @@
         "entity.name.variable.property"
       ],
       "settings": {
-        "foreground": "#968cc4",
+        "foreground": "#a297be",
         "fontStyle": ""
       }
     },
@@ -1139,7 +1138,7 @@
       "name": "Deleted",
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#da475f"
+        "foreground": "#c06271"
       }
     },
     {
@@ -1527,7 +1526,7 @@
       "fontStyle": ""
     },
     "module": {
-      "foreground": "#a7b178",
+      "foreground": "#9db178",
       "fontStyle": "bold"
     },
     "class": {
@@ -1535,35 +1534,43 @@
       "fontStyle": "bold"
     },
     "recordClass": {
-      "foreground": "#5ca3bb",
-      "fontStyle": "bold"
+      "foreground": "#5092a8",
+      "fontStyle": "italic bold"
     },
     "struct": {
-      "foreground": "#7273a7",
+      "foreground": "#996770",
       "fontStyle": "bold"
     },
     "recordStruct": {
-      "foreground": "#a15898",
+      "foreground": "#bb9da2",
       "fontStyle": "bold"
     },
     "record": {
-      "foreground": "#aa70a1",
+      "foreground": "#b37caa",
       "fontStyle": "bold"
     },
     "recordComponent": {
-      "foreground": "#bd7cb3",
+      "foreground": "#c28eba",
       "fontStyle": ""
     },
     "interface": {
       "foreground": "#ac7b67",
       "fontStyle": "bold"
     },
+    "enum": {
+      "foreground": "#a89b72",
+      "fontStyle": "bold"
+    },
+    "enumMember": {
+      "foreground": "#b9b092",
+      "fontStyle": "italic"
+    },
     "field": {
       "foreground": "#73b9b9",
       "fontStyle": "italic"
     },
     "property": {
-      "foreground": "#a199c5",
+      "foreground": "#a297be",
       "fontStyle": ""
     },
     "function": {
@@ -1593,14 +1600,6 @@
     "typeParameter": {
       "foreground": "#6d87a0",
       "fontStyle": "bold"
-    },
-    "enum": {
-      "foreground": "#a87290",
-      "fontStyle": "bold"
-    },
-    "enumMember": {
-      "foreground": "#ad879c",
-      "fontStyle": "italic"
     },
     "event": {
       "foreground": "#bb7d88",
@@ -1722,6 +1721,6 @@
     "xmlDocCommentAttributeName": "#c47bca",
     "xmlDocCommentAttributeValue": "#8cbd96",
     "xmlDocCommentAttributeQuotes": "#b99363",
-    "xmlDocCommentDelimiter": "#8f9b8a",
+    "xmlDocCommentDelimiter": "#8f9b8a"
   }
 }
