@@ -758,7 +758,7 @@
         "string.quoted.double"
       ],
       "settings": {
-        "foreground": "#b89f6b"
+        "foreground": "#b49f70"
       }
     },
     {
@@ -780,7 +780,7 @@
         "storage.type.string"
       ],
       "settings": {
-        "foreground": "#b89f6b",
+        "foreground": "#b49f70",
         "fontStyle": ""
       }
     },
@@ -830,6 +830,7 @@
       "name": "property",
       "scope": [
         "variable.other.object.property",
+        "variable.other.object.property.cs",
         "variable.other.property",
         "entity.name.variable.property"
       ],
@@ -1110,7 +1111,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#cfa557"
+        "foreground": "#c5a873"
       }
     },
     {
@@ -1438,7 +1439,7 @@
         "entity.other.attribute-name.class.css punctuation.definition.entity.css"
       ],
       "settings": {
-        "foreground": "#72aa8b",
+        "foreground": "#71a186",
         "fontStyle": ""
       }
     },
@@ -1454,7 +1455,7 @@
       "name": "css property name",
       "scope": ["support.type.property-name.css"],
       "settings": {
-        "foreground": "#73b9b9",
+        "foreground": "#7fadad",
         "fontStyle": ""
       }
     },
@@ -1462,7 +1463,7 @@
       "name": "css property value",
       "scope": ["meta.property-value", "support.constant.property-value.css"],
       "settings": {
-        "foreground": "#a199c5",
+        "foreground": "#a297be",
         "fontStyle": ""
       }
     },
@@ -1489,7 +1490,27 @@
       "name": "html attribute name",
       "scope": ["entity.other.attribute-name.html"],
       "settings": {
-        "foreground": "#73b9b9",
+        "foreground": "#77a4b9",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "html markup element",
+      "scope": ["entity.name.tag.html"],
+      "settings": {
+        "foreground": "#b36475",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "html quoted string",
+      "scope": [
+        "string.quoted.double.html",
+        "punctuation.definition.string.begin.html",
+        "punctuation.definition.string.end.html"
+      ],
+      "settings": {
+        "foreground": "#ac937a",
         "fontStyle": ""
       }
     },
@@ -1497,7 +1518,7 @@
       "name": "text",
       "scope": ["text"],
       "settings": {
-        "foreground": "#bbc5ce",
+        "foreground": "#a8afb6",
         "fontStyle": ""
       }
     }
@@ -1629,11 +1650,11 @@
       "fontStyle": "bold"
     },
     "string": {
-      "foreground": "#b89f6b",
+      "foreground": "#b49f70",
       "fontStyle": ""
     },
     "stringVerbatim": {
-      "foreground": "#b89f6b",
+      "foreground": "#b49f70",
       "fontStyle": "italic"
     },
     "stringEscapeCharacter": {
@@ -1649,7 +1670,7 @@
       "fontStyle": "italic"
     },
     "text": {
-      "foreground": "#bbc5ce",
+      "foreground": "#a8afb6",
       "fontStyle": ""
     },
     "regexCharacterClass": {
@@ -1660,9 +1681,9 @@
       "foreground": "#ffefe473",
       "fontStyle": "italic"
     },
-    "markupAttributeQuote": {
-      "foreground": "#d1a98e",
-      "fontStyle": ""
+    "markupCommentPunctuation": {
+      "foreground": "#ffefe473",
+      "fontStyle": "italic"
     },
     "markupOperator": {
       "foreground": "#a5a9af",
@@ -1673,15 +1694,19 @@
       "fontStyle": ""
     },
     "markupElement": {
-      "foreground": "#b95465",
+      "foreground": "#b36475",
       "fontStyle": ""
     },
     "markupAttribute": {
-      "foreground": "#57a8ce",
+      "foreground": "#77a4b9",
       "fontStyle": ""
     },
     "markupAttributeValue": {
-      "foreground": "#c7a289",
+      "foreground": "#ac937a",
+      "fontStyle": ""
+    },
+    "markupAttributeQuote": {
+      "foreground": "#ac937a",
       "fontStyle": ""
     },
     "razorComment": {
@@ -1689,15 +1714,15 @@
       "fontStyle": "italic"
     },
     "razorTransition": {
-      "foreground": "#afa4cc",
+      "foreground": "#7571ad",
       "fontStyle": ""
     },
     "razorDirective": {
-      "foreground": "#aba1c7",
+      "foreground": "#7571ad",
       "fontStyle": ""
     },
     "razorDirectiveAttribute": {
-      "foreground": "#aba1c7",
+      "foreground": "#7571ad",
       "fontStyle": "italic"
     },
     "razorComponentElement": {

@@ -3,6 +3,22 @@
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
 
+### Version 0.4.1
+
+### Changes
+
+- Changed css attribute class color to #71a186
+- Changed css property name color to #7fadad
+- Changed css property value color to #a297be
+- Changed html attributes color zo #c5a873
+- Changed html attribute name color to #77a4b9
+- Changed html markup element color to #b36475
+- Changed html string and quotes color to #ac937a
+- Changed text color to #a8afb6
+- Changed razor directive, directive attribute and transition color to #7571ad
+- Changed string color to #b49f70
+
+
 ### Version 0.4.0
 
 ### Changes
