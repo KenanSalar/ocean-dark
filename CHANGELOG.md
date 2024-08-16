@@ -3,6 +3,15 @@
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
 
+### Version 0.5.0
+
+### Changes
+
+- Changed enum color to #838dad
+- Changed enumMember color to #8c96b8
+- Changed enumMember from italic to normal
+
+
 ### Version 0.4.1
 
 ### Changes

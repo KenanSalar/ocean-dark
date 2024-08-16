@@ -490,7 +490,7 @@
         "variable.import.parameter"
       ],
       "settings": {
-        "foreground": "#7bc4c4",
+        "foreground": "#b1caca",
         "fontStyle": "italic"
       }
     },
@@ -705,7 +705,8 @@
         "keyword.control.import",
         "storage.type.annotation",
         "punctuation.definition.annotation",
-        "variable.language"
+        "variable.language",
+        "keyword.operator.expression"
       ],
       "settings": {
         "foreground": "#6d87a0",
@@ -758,7 +759,8 @@
         "string.quoted.double"
       ],
       "settings": {
-        "foreground": "#b49f70"
+        "foreground": "#b49f70",
+        "fontStyle": ""
       }
     },
     {
@@ -818,12 +820,13 @@
       "name": "field",
       "scope": [
         "entity.name.variable.field",
+        "entity.name.variable.field.cs",
         "variable.other.field",
         "variable.other.object.field"
       ],
       "settings": {
         "foreground": "#6eb9b9",
-        "fontStyle": ""
+        "fontStyle": "italic"
       }
     },
     {
@@ -867,7 +870,7 @@
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#ff5353"
+        "foreground": "#be7474"
       }
     },
     {
@@ -1523,7 +1526,7 @@
       }
     }
   ],
-  "semanticHighlighting": true,
+  "semanticHighlighting": false,
 
   "semanticTokenColors": {
     "keyword": {
@@ -1539,6 +1542,10 @@
       "fontStyle": ""
     },
     "selfParameter": {
+      "foreground": "#6d87a0",
+      "fontStyle": ""
+    },
+    "newOperator": {
       "foreground": "#6d87a0",
       "fontStyle": ""
     },
@@ -1579,12 +1586,12 @@
       "fontStyle": "bold"
     },
     "enum": {
-      "foreground": "#a89b72",
+      "foreground": "#838dad",
       "fontStyle": "bold"
     },
     "enumMember": {
-      "foreground": "#b9b092",
-      "fontStyle": "italic"
+      "foreground": "#8c96b8",
+      "fontStyle": ""
     },
     "field": {
       "foreground": "#73b9b9",
@@ -1726,7 +1733,7 @@
       "fontStyle": "italic"
     },
     "razorComponentElement": {
-      "foreground": "#54bd9a",
+      "foreground": "#64b99d",
       "fontStyle": "bold"
     },
     "razorComponentAttribute": {
@@ -1734,11 +1741,11 @@
       "fontStyle": "bold"
     },
     "razorTagHelperElement": {
-      "foreground": "#c97157",
+      "foreground": "#c7816c",
       "fontStyle": ""
     },
     "razorTagHelperAttribute": {
-      "foreground": "#c99c58",
+      "foreground": "#c09d68",
       "fontStyle": ""
     },
     "xmlDocCommentName": "#4e8abb",
