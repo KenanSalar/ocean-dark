@@ -3,6 +3,20 @@
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
 
+### Version 0.6.0
+
+### Changes
+
+- Changed variable color to #8cacac
+- Changed class color to #618d9c
+- Changed recordStruct color to #aa8f93
+- Changed interface color to #9b7263
+- Changed field/attribute color to #6baaaa
+- Changed property color to #8780a0
+- Changed method/function color to #77a581
+- Changed parameter color to #9dadad
+
+
 ### Version 0.5.0
 
 ### Changes

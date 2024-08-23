@@ -478,7 +478,7 @@
         "markup.fenced_code.block"
       ],
       "settings": {
-        "foreground": "#90b8b8",
+        "foreground": "#8cacac",
         "fontStyle": ""
       }
     },
@@ -490,7 +490,7 @@
         "variable.import.parameter"
       ],
       "settings": {
-        "foreground": "#b1caca",
+        "foreground": "#9dadad",
         "fontStyle": "italic"
       }
     },
@@ -551,7 +551,7 @@
         "entity.name.type.cs"
       ],
       "settings": {
-        "foreground": "#6a9cac",
+        "foreground": "#618d9c",
         "fontStyle": "bold"
       }
     },
@@ -838,7 +838,7 @@
         "entity.name.variable.property"
       ],
       "settings": {
-        "foreground": "#a297be",
+        "foreground": "#9890b6",
         "fontStyle": ""
       }
     },
@@ -1194,7 +1194,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#73b9b9"
+        "foreground": "#6eafaf"
       }
     },
     {
@@ -1203,7 +1203,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#7baa85"
+        "foreground": "#77a581"
       }
     },
     {
@@ -1212,7 +1212,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#ac7b67"
+        "foreground": "#9b7263"
       }
     },
     {
@@ -1239,7 +1239,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#73b9b9"
+        "foreground": "#6eafaf"
       }
     },
     {
@@ -1466,7 +1466,7 @@
       "name": "css property value",
       "scope": ["meta.property-value", "support.constant.property-value.css"],
       "settings": {
-        "foreground": "#a297be",
+        "foreground": "#9890b6",
         "fontStyle": ""
       }
     },
@@ -1558,7 +1558,7 @@
       "fontStyle": "bold"
     },
     "class": {
-      "foreground": "#6a9cac",
+      "foreground": "#618d9c",
       "fontStyle": "bold"
     },
     "recordClass": {
@@ -1570,7 +1570,7 @@
       "fontStyle": "bold"
     },
     "recordStruct": {
-      "foreground": "#bb9da2",
+      "foreground": "#aa8f93",
       "fontStyle": "bold"
     },
     "record": {
@@ -1582,7 +1582,7 @@
       "fontStyle": ""
     },
     "interface": {
-      "foreground": "#ac7b67",
+      "foreground": "#9b7263",
       "fontStyle": "bold"
     },
     "enum": {
@@ -1594,35 +1594,35 @@
       "fontStyle": ""
     },
     "field": {
-      "foreground": "#73b9b9",
+      "foreground": "#6baaaa",
       "fontStyle": "italic"
     },
     "property": {
-      "foreground": "#a297be",
+      "foreground": "#8780a0",
       "fontStyle": ""
     },
     "function": {
-      "foreground": "#7baa85",
+      "foreground": "#77a581",
       "fontStyle": ""
     },
     "method": {
-      "foreground": "#7baa85",
+      "foreground": "#77a581",
       "fontStyle": ""
     },
     "extensionMethod": {
-      "foreground": "#7baa85",
+      "foreground": "#77a581",
       "fontStyle": "italic"
     },
     "delegate": {
-      "foreground": "#7baa85",
+      "foreground": "#77a581",
       "fontStyle": "italic bold"
     },
     "*.async": {
-      "foreground": "#7baa85",
+      "foreground": "#77a581",
       "fontStyle": "bold"
     },
     "parameter": {
-      "foreground": "#b1caca",
+      "foreground": "#9dadad",
       "fontStyle": "italic"
     },
     "typeParameter": {
