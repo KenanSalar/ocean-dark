@@ -2,6 +2,28 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 0.7.0
+
+### Changes
+
+- Changed terminal colors:
+  ansiRed: #995858
+  ansiGreen: #5D996F
+  ansiYellow: #999958
+  ansiBlue: #577F99
+  ansiMagenta: #826699
+  ansiCyan: #529995
+  ansiWhite: #999999
+  ansiBrightRed: #A67575
+  ansiBrightGreen: #73A682
+  ansiBrightYellow: #A6A573
+  ansiBrightBlue: #7491A6
+  ansiBrightMagenta: #9382A6
+  ansiBrightCyan: #71A6A2
+  ansiBrightWhite: #A6A6A6
+
+- Changed terminal foreground to #C5CFD9
+
 
 ### Version 0.6.0
 
@@ -57,7 +79,6 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed recordClass color to #5092a8 and made it bold and italic
 
 
-
 ### Version 0.3.2
 
 ### Changes
@@ -72,6 +93,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed terminal ansi colors to milder colors
 - Changed regex color to #bd9676 and made it italic
 - Changed regular exppressions to italic for now
+
 
 ### Version 0.3.0
 
@@ -129,7 +151,6 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed JSON Key - Level 6 color to #bb7d88
 - Changed JSON Key - Level 7 color to #acb678
 - Changed JSON Key - Level 8 color to #9694a3
-
 
 
 ### Version 0.1.5
