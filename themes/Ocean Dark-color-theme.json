@@ -722,7 +722,7 @@
       ],
       "settings": {
         "foreground": "#6d87a0",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -733,7 +733,7 @@
       ],
       "settings": {
         "foreground": "#6d87a0",
-        "fontStyle": "bold"
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -1535,7 +1535,7 @@
     },
     "controlKeyword": {
       "foreground": "#6d87a0",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "macro": {
       "foreground": "#6d87a0",
@@ -1627,7 +1627,7 @@
     },
     "typeParameter": {
       "foreground": "#6d87a0",
-      "fontStyle": "bold"
+      "fontStyle": "italic bold"
     },
     "event": {
       "foreground": "#bb7d88",

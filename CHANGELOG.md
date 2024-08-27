@@ -2,6 +2,14 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 0.8.0
+
+### Changes
+
+- Changed keywordControl fontStyle to default
+- TypeParameter is now italic-bold
+
+
 ### Version 0.7.0
 
 ### Changes
