@@ -2,6 +2,26 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.0.0
+
+### Changes
+
+- **Environment:**
+  - **Editor Background Color:** `#0a0e14`
+  - **Sidebar, Activitybar, Statusbar, and Topbar:** `#12181f`
+  - **Menu Background and Command Center:** `#12181f`
+
+- **Syntax Highlighting:**
+  - **Variable Color:** `#9ba2ad`
+  - **Parameter Color:** `#99adad`
+  - **Razor Transition Color:** `#736faa`
+  - **Razor Directive Color:** `#736faa`
+  - **Razor Directive Attribute Color:** `#736faa`
+  - **Razor Component Element Color:** `#518f79`
+  - **Razor Component Attribute Color:** `#946ca7`
+  - **Razor Tag Helper Element Color:** `#b37562`
+  - **Razor Tag Helper Attribute Color:** `#b69564`
+
 ### Version 0.8.0
 
 ### Changes
