@@ -2,11 +2,18 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.0.1
+
+### Changes
+
+- **Fixed field standard color**
+
 ### Version 1.0.0
 
 ### Changes
 
 - **Environment:**
+
   - **Editor Background Color:** `#0a0e14`
   - **Sidebar, Activitybar, Statusbar, and Topbar:** `#12181f`
   - **Menu Background and Command Center:** `#12181f`
@@ -28,7 +35,6 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 - Changed keywordControl fontStyle to default
 - TypeParameter is now italic-bold
-
 
 ### Version 0.7.0
 
@@ -52,7 +58,6 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 - Changed terminal foreground to #C5CFD9
 
-
 ### Version 0.6.0
 
 ### Changes
@@ -66,7 +71,6 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed method/function color to #77a581
 - Changed parameter color to #9dadad
 
-
 ### Version 0.5.0
 
 ### Changes
@@ -74,7 +78,6 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed enum color to #838dad
 - Changed enumMember color to #8c96b8
 - Changed enumMember from italic to normal
-
 
 ### Version 0.4.1
 
@@ -91,7 +94,6 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed razor directive, directive attribute and transition color to #7571ad
 - Changed string color to #b49f70
 
-
 ### Version 0.4.0
 
 ### Changes
@@ -106,13 +108,11 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed property color to #a297be
 - Changed recordClass color to #5092a8 and made it bold and italic
 
-
 ### Version 0.3.2
 
 ### Changes
 
 - Changed struct color to #7273a7
-
 
 ### Version 0.3.1
 
@@ -121,7 +121,6 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed terminal ansi colors to milder colors
 - Changed regex color to #bd9676 and made it italic
 - Changed regular exppressions to italic for now
-
 
 ### Version 0.3.0
 
@@ -139,13 +138,11 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed markdown - markup raw inline to #9175a3
 - Changed markup - plain to #bbc5ce
 
-
 ### Version 0.2.1
 
 ### Changes
 
 - Adjusted enum and enum member colors to #a87290 and #ad879c
-
 
 ### Version 0.2.0
 
@@ -180,7 +177,6 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed JSON Key - Level 7 color to #acb678
 - Changed JSON Key - Level 8 color to #9694a3
 
-
 ### Version 0.1.5
 
 ### Changes
@@ -190,7 +186,6 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed JSON Key - Level 1 coolor to #739b53
 - Added support colors (for now #3ca8a8)
 
-
 ### Version 0.1.4
 
 ### Changes
@@ -198,13 +193,11 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed constant fontstyle to italic
 - Changed JSON level 0-5 colors
 
-
 ### Version 0.1.3
 
 ### Changes
 
 - Changed another broken url
-
 
 ### Version 0.1.2
 
@@ -212,14 +205,12 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 - Changed banner picture url
 
-
 ### Version 0.1.1
 
 ### Changes
 
 - Changed logo and banner
 - Changed marketplace url
-
 
 ### Version 0.1.0
 

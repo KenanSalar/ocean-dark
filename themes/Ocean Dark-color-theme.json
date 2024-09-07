@@ -425,10 +425,8 @@
         "variable",
         "string constant.other.placeholder",
         "variable.object",
-        "variable.other",
         "support",
         "entity.name.module",
-        "variable.other.class",
         "meta.toc-list.id.html",
         "source.json meta.structure.dictionary.json support.type.property-name.json",
         "meta.var.clojure",
@@ -822,10 +820,11 @@
         "entity.name.variable.field",
         "entity.name.variable.field.cs",
         "variable.other.field",
+        "variable.other.object",
         "variable.other.object.field"
       ],
       "settings": {
-        "foreground": "#6eb9b9",
+        "foreground": "#6BAAAA",
         "fontStyle": "italic"
       }
     },
