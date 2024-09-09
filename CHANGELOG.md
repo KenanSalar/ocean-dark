@@ -2,6 +2,16 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.0.2
+
+### Changes
+
+- **Changed delegate and recordClass color**
+  There were some bugs with the semantic highlighting, for example if else where highlighted as delegate in razor files, so i changed the delegate color to #736faa (same as the razorDirective color)
+
+  The same bug also happened with curly braces
+  so i changed the recordClass color to #a5a9af
+
 ### Version 1.0.1
 
 ### Changes

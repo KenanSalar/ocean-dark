@@ -11,6 +11,9 @@ With this theme you can code at night without straining your eyes.
 
 Install the extension from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=kenan-salar.ocean-dark)  
 **Don't forget to enable semantic highlighting.**
+**Put this command in your settings.json:**
+`"editor.semanticHighlighting.enabled": true`
+
 
 ## Screenshots
 

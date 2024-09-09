@@ -704,7 +704,8 @@
         "storage.type.annotation",
         "punctuation.definition.annotation",
         "variable.language",
-        "keyword.operator.expression"
+        "keyword.operator.expression",
+        "keyword.control.conditional"
       ],
       "settings": {
         "foreground": "#6d87a0",
@@ -854,8 +855,8 @@
         "keyword.control.razor.directive.codeblock.close"
       ],
       "settings": {
-        "foreground": "#aca2ca",
-        "fontStyle": "italic"
+        "foreground": "#736faa",
+        "fontStyle": ""
       }
     },
     {
@@ -893,10 +894,12 @@
         "punctuation.accessor",
         "keyword.operator.null-conditional.python",
         "keyword.operator.ternary",
-        "punctuation.definition.typeparameters"
+        "punctuation.definition.typeparameters",
+        "punctuation.curlybrace.open",
+        "punctuation.curlybrace.close",
       ],
       "settings": {
-        "foreground": "#aeb2b9",
+        "foreground": "#a5a9af",
         "fontStyle": ""
       }
     },
@@ -1525,7 +1528,7 @@
       }
     }
   ],
-  "semanticHighlighting": false,
+  "semanticHighlighting": true,
   "semanticTokenColors": {
     "keyword": {
       "foreground": "#6d87a0",
@@ -1560,8 +1563,8 @@
       "fontStyle": "bold"
     },
     "recordClass": {
-      "foreground": "#5092a8",
-      "fontStyle": "italic bold"
+      "foreground": "#a5a9af",
+      "fontStyle": ""
     },
     "struct": {
       "foreground": "#996770",
@@ -1612,8 +1615,8 @@
       "fontStyle": "italic"
     },
     "delegate": {
-      "foreground": "#77a581",
-      "fontStyle": "italic bold"
+      "foreground": "#736faa",
+      "fontStyle": ""
     },
     "*.async": {
       "foreground": "#77a581",
