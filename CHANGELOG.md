@@ -2,6 +2,12 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.0.3
+
+### Changes
+
+- **Changed standard interface color to the semantic one**
+
 ### Version 1.0.2
 
 ### Changes

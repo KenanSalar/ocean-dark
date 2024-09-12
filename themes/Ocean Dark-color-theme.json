@@ -581,7 +581,7 @@
       "name": "interface",
       "scope": ["variable.other.interface", "entity.name.type.interface"],
       "settings": {
-        "foreground": "#ad745d",
+        "foreground": "#9b7263",
         "fontStyle": "bold"
       }
     },
@@ -896,7 +896,7 @@
         "keyword.operator.ternary",
         "punctuation.definition.typeparameters",
         "punctuation.curlybrace.open",
-        "punctuation.curlybrace.close",
+        "punctuation.curlybrace.close"
       ],
       "settings": {
         "foreground": "#a5a9af",
