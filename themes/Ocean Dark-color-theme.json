@@ -816,12 +816,19 @@
       }
     },
     {
+      "name": "variable object",
+      "scope": ["variable.other.object"],
+      "settings": {
+        "foreground": "#6BAAAA",
+        "fontStyle": ""
+      }
+    },
+    {
       "name": "field",
       "scope": [
         "entity.name.variable.field",
         "entity.name.variable.field.cs",
         "variable.other.field",
-        "variable.other.object",
         "variable.other.object.field"
       ],
       "settings": {
@@ -835,7 +842,8 @@
         "variable.other.object.property",
         "variable.other.object.property.cs",
         "variable.other.property",
-        "entity.name.variable.property"
+        "entity.name.variable.property",
+        "meta.object-literal.key"
       ],
       "settings": {
         "foreground": "#9890b6",
@@ -989,10 +997,12 @@
         "source.wsd support.class.preprocessings",
         "keyword.language.gherkin.feature.scenario",
         "source.nim keyword.other.common.function",
-        "entity.name.scope-resolution.function.call"
+        "entity.name.scope-resolution.function.call",
+        "support.variable.js"
       ],
       "settings": {
-        "foreground": "#3ca8a8"
+        "foreground": "#6BAAAA",
+        "fontStyle": ""
       }
     },
     {
