@@ -19,6 +19,6 @@ Install the extension from the [Marketplace](https://marketplace.visualstudio.co
 
 #### Default Theme:
 
-![App Screenshot](https://raw.githubusercontent.com/KenanSalar/ocean-dark/main/resources/Preview.png?token=GHSAT0AAAAAACR7DOA7SVPXME5RE2TENZM6ZXFKSRA)
+![App Screenshot](https://i.postimg.cc/SsRNWgy4/Preview.png)
 
-![App Screenshot](https://raw.githubusercontent.com/KenanSalar/ocean-dark/main/resources/Preview2.png?token=GHSAT0AAAAAACR7DOA6IZLW2LNZLZFTOBMOZXFKSZQ)
+![App Screenshot](https://i.postimg.cc/26tjTn6Z/Preview2.png)

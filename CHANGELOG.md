@@ -2,6 +2,12 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.0.5
+
+### Changes
+
+- **Fixed screenshots in the README**
+
 ### Version 1.0.4
 
 ### Changes
@@ -9,7 +15,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - **Fixed support variable color for js**
 - **Changed color for meta.object-literal.key to #9890b6**
 - **Variable object is not italic anymore**
-- **Updated screenshots in the readme**
+- **Updated screenshots in the README**
 
 ### Version 1.0.3
 
