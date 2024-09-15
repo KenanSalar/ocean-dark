@@ -2,6 +2,18 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.0.6
+
+### Changes
+
+- **Environment:**
+
+  - **Editor Background Color:** `#0c1016`
+  - **Sidebar, Activitybar, Statusbar, and Topbar:** `#12171d`
+  - **Menu Background and Command Center:** `#12171d`
+  - **Menu Border:** `#1a2c36dc`
+  - **Command Center and Search Background:** `#1a1f27`
+
 ### Version 1.0.5
 
 ### Changes
