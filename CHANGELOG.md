@@ -2,6 +2,12 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.0.7
+
+### Changes
+
+- **Changed constant color:** `#a58a7f`
+
 ### Version 1.0.6
 
 ### Changes

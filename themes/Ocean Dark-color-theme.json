@@ -497,6 +497,7 @@
       "scope": [
         "constant",
         "variable.other.constant",
+        "variable.other.constant.object",
         "support.constant",
         "constant.character.entity",
         "support.variable.magic",
@@ -529,7 +530,7 @@
         "constant.character.character-class.regexp"
       ],
       "settings": {
-        "foreground": "#bd9676",
+        "foreground": "#a58a7f",
         "fontStyle": "italic"
       }
     },
@@ -1660,11 +1661,11 @@
       "foreground": "#a5a9af"
     },
     "constant": {
-      "foreground": "#bd9676",
+      "foreground": "#a58a7f",
       "fontStyle": "italic"
     },
     "builtinConstant": {
-      "foreground": "#bd9676",
+      "foreground": "#a58a7f",
       "fontStyle": "bold"
     },
     "string": {
