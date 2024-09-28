@@ -908,7 +908,7 @@
         "punctuation.curlybrace.close"
       ],
       "settings": {
-        "foreground": "#a5a9af",
+        "foreground": "#77a39e",
         "fontStyle": ""
       }
     },
@@ -1650,15 +1650,15 @@
       "fontStyle": ""
     },
     "operator": {
-      "foreground": "#a5a9af",
+      "foreground": "#77a39e",
       "fontStyle": ""
     },
     "operatorOverload": {
-      "foreground": "#9da4af",
+      "foreground": "#62aca3",
       "fontStyle": "bold"
     },
     "punctuation": {
-      "foreground": "#a5a9af"
+      "foreground": "#adadad"
     },
     "constant": {
       "foreground": "#a58a7f",

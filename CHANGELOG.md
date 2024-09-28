@@ -2,6 +2,14 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.0.8
+
+### Changes
+
+- **Changed operator color:** `#77a39e`
+- **Changed operatorOverload color:** `#62aca3`
+- **Changed punctuation color:** `#adadad`
+
 ### Version 1.0.7
 
 ### Changes
