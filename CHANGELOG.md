@@ -2,6 +2,13 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.1.0
+
+### Changes
+
+- **Changed ui color (activity bar, status bar, top bar, sidebar) to:** `#171c22`
+- **Changed command center and input background:** `#212931`
+
 ### Version 1.0.8
 
 ### Changes
