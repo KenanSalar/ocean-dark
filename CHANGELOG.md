@@ -2,6 +2,15 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.1.4
+
+### Changes
+
+- **Syntax Highlighting is now slightly brigher**
+- **Syntax Highlighting is now slightly brigher**
+- **String EscapeCharacter color is now:** `#79b19c`
+- **Removed italic font style from fields/attributes**
+
 ### Version 1.1.3
 
 ### Changes
