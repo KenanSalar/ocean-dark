@@ -2,6 +2,15 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.1.1
+
+### Changes
+
+- **Changed ui color (activity bar, status bar, top bar, sidebar) to:** `#181d24`
+- **Changed command center and input background:** `#363e4965`
+- **Changed editor background color and terminal to:** `#0d1016`
+- **List, menu elements aswell as files in the explorer now have a blue foreground hover effect**
+
 ### Version 1.1.0
 
 ### Changes
