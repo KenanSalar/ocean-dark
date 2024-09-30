@@ -2,6 +2,12 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.1.2
+
+### Changes
+
+- **Changed ui color (activity bar, status bar, top bar, sidebar) to:** `#1A1D24`
+
 ### Version 1.1.1
 
 ### Changes
