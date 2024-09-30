@@ -69,7 +69,7 @@
     "commandCenter.inactiveBorder": "#0f1013a1",
     "commandCenter.activeBackground": "#1A1D24",
     "commandCenter.activeForeground": "#8da0ad",
-    
+
     "checkbox.foreground": "#d1d2d4",
     "debugExceptionWidget.background": "#1A1D24",
     "debugExceptionWidget.border": "#0f1013a1",
@@ -101,19 +101,19 @@
     "editorGhostText.foreground": "#d1d2d470",
     "editorCursor.background": "#90a0c2",
 
-    "editorBracketHighlight.foreground1": "#7b8fb9",
-    "editorBracketHighlight.foreground2": "#6ea892",
-    "editorBracketHighlight.foreground3": "#a57baf",
-    "editorBracketHighlight.foreground4": "#b3876d",
-    "editorBracketHighlight.foreground5": "#aca873",
-    "editorBracketHighlight.foreground6": "#a3a7ad",
+    "editorBracketHighlight.foreground1": "#758099",
+    "editorBracketHighlight.foreground2": "#759994",
+    "editorBracketHighlight.foreground3": "#8c8597",
+    "editorBracketHighlight.foreground4": "#727aa1",
+    "editorBracketHighlight.foreground5": "#7c9682",
+    "editorBracketHighlight.foreground6": "#978e85",
 
-    "editorBracketPairGuide.activeBackground1": "#7b8fb9b0",
-    "editorBracketPairGuide.activeBackground2": "#6ea892b0",
-    "editorBracketPairGuide.activeBackground3": "#a57bafb0",
-    "editorBracketPairGuide.activeBackground4": "#b3876db0",
-    "editorBracketPairGuide.activeBackground5": "#aca873b0",
-    "editorBracketPairGuide.activeBackground6": "#a3a7adb0",
+    "editorBracketPairGuide.activeBackground1": "#758099b0",
+    "editorBracketPairGuide.activeBackground2": "#759994b0",
+    "editorBracketPairGuide.activeBackground3": "#8c8597b0",
+    "editorBracketPairGuide.activeBackground4": "#727aa1b0",
+    "editorBracketPairGuide.activeBackground5": "#7c9682b0",
+    "editorBracketPairGuide.activeBackground6": "#978e85b0",
 
     "editorBracketHighlight.unexpectedBracket.foreground": "#be4848",
 

@@ -2,6 +2,30 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.1.3
+
+### Changes
+
+- **Bracked colors:**
+
+  ```json
+  {
+    "editorBracketHighlight.foreground1": "#758099",
+    "editorBracketHighlight.foreground2": "#759994",
+    "editorBracketHighlight.foreground3": "#8c8597",
+    "editorBracketHighlight.foreground4": "#727aa1",
+    "editorBracketHighlight.foreground5": "#7c9682",
+    "editorBracketHighlight.foreground6": "#978e85",
+
+    "editorBracketPairGuide.activeBackground1": "#758099b0",
+    "editorBracketPairGuide.activeBackground2": "#759994b0",
+    "editorBracketPairGuide.activeBackground3": "#8c8597b0",
+    "editorBracketPairGuide.activeBackground4": "#727aa1b0",
+    "editorBracketPairGuide.activeBackground5": "#7c9682b0",
+    "editorBracketPairGuide.activeBackground6": "#978e85b0"
+  }
+  ```
+
 ### Version 1.1.2
 
 ### Changes
