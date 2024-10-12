@@ -2,6 +2,15 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.2.0
+
+### Changes
+
+- **Punctuation now has the same color as operatos** `#7aa8a3`
+- **UI like activitybar, sidebar etc. is a little darker and has more contrast/color** `#161920`
+- **Foreground of various ui elements like the sidebar is now:** `#7f8697`
+- **Editor background is now slightly darker again and has only a little bit more color** `#0b0e14`
+
 ### Version 1.1.5
 
 ### Changes
