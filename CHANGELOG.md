@@ -2,6 +2,14 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.2.2
+
+#### Changes
+
+- **Fixed hover and border color**
+
+---
+
 ### Version 1.2.1
 
 #### Changes
