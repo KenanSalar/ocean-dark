@@ -3,7 +3,7 @@
   "displayName": "Ocean Dark",
   "description": "A nice relaxing theme, which is easy on the eyes",
   "icon": "resources/ocean-dark-logo.png",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -40,7 +40,9 @@
     "readable syntax highlighting",
     "readable dark theme",
     "relaxing",
-    "relaxing theme"
+    "relaxing theme",
+    "tokyo style",
+    "tokyo sidebar"
   ],
   "contributes": {
     "themes": [
@@ -48,6 +50,11 @@
         "label": "Ocean Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Ocean Dark-color-theme.json"
+      },
+      {
+        "label": "Ocean Dark Tokyo Style",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ocean Dark-Tokyo-Style-color-theme.json"
       }
     ]
   }
