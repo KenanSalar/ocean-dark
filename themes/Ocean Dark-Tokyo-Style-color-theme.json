@@ -286,9 +286,9 @@
 
     "editorOverviewRuler.border": "#0f1013a1",
     "scrollbar.shadow": "#00000046",
-    "scrollbarSlider.activeBackground": "#23363fdc",
-    "scrollbarSlider.background": "#1e2f3879",
-    "scrollbarSlider.hoverBackground": "#20323b9c",
+    "scrollbarSlider.activeBackground": "#26233fdc",
+    "scrollbarSlider.background": "#24213b79",
+    "scrollbarSlider.hoverBackground": "#2723449c",
 
     "settings.modifiedItemIndicator": "#9093c2",
     "settings.headerForeground": "#9093c2",

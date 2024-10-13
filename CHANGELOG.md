@@ -6,6 +6,14 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 #### Changes
 
+- **Changed the scrollbar color in tokyo style to match the theme**
+
+---
+
+### Version 1.2.2
+
+#### Changes
+
 - **Fixed hover and border color**
 
 ---
