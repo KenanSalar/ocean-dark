@@ -2,7 +2,15 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
-### Version 1.2.2
+### Version 1.2.4
+
+#### Changes
+
+- **In the tokyo style theme the syntax is adjusted to match the new pupleish look**
+
+---
+
+### Version 1.2.3
 
 #### Changes
 
