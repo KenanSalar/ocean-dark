@@ -2,6 +2,22 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.2.5
+
+#### Changes
+
+- **Inlay Hints are not more purpleish**
+- **Keywords are now:** `#8a85bb`
+- **Namespace is now:** `#9492a0`
+- **Class is now:** `#7286bb`
+- **Interface is now:** `#c7937b`
+- **Property is now:** `#7abbc0`
+- **Parameter is now:** `#cacaab`
+- **Type parameter isn't italic anymore**
+
+
+---
+
 ### Version 1.2.4
 
 #### Changes
