@@ -488,7 +488,7 @@
         "variable.import.parameter"
       ],
       "settings": {
-        "foreground": "##cacaab",
+        "foreground": "#cacaab",
         "fontStyle": "italic"
       }
     },

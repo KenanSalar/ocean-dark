@@ -578,7 +578,7 @@
         "entity.name.variable.enum-member"
       ],
       "settings": {
-        "foreground": "#98a1c0",
+        "foreground": "#be9483",
         "fontStyle": ""
       }
     },
@@ -586,7 +586,7 @@
       "name": "interface",
       "scope": ["variable.other.interface", "entity.name.type.interface"],
       "settings": {
-        "foreground": "#b48877",
+        "foreground": "#889cc7",
         "fontStyle": "bold"
       }
     },
@@ -1240,7 +1240,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#b48877"
+        "foreground": "#889cc7"
       }
     },
     {
@@ -1609,15 +1609,15 @@
       "fontStyle": ""
     },
     "interface": {
-      "foreground": "#b48877",
+      "foreground": "#889cc7",
       "fontStyle": "bold"
     },
     "enum": {
-      "foreground": "#8d98bd",
+      "foreground": "#b68673",
       "fontStyle": "bold"
     },
     "enumMember": {
-      "foreground": "#98a1c0",
+      "foreground": "#be9483",
       "fontStyle": ""
     },
     "field": {

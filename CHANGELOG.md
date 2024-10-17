@@ -2,7 +2,21 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
-### Version 1.2.6
+### Version 1.2.7
+
+#### Changes
+
+##### **Ocean Dark Tokyo Style (semantic)**
+
+- **Fixed typo in the tokyo style settings**
+
+##### **Ocean Dark (semantic)**
+
+- **Interface color is now:** `#889cc7`
+- **Enum color is now:** `#b68673`
+- **Enum member color is now:** `#be9483`
+
+---
 
 #### Changes
 
