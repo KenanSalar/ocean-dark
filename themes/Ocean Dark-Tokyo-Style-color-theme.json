@@ -550,7 +550,7 @@
         "entity.name.type.cs"
       ],
       "settings": {
-        "foreground": "#7286bb",
+        "foreground": "#798cc0",
         "fontStyle": "bold"
       }
     },
@@ -578,7 +578,7 @@
         "entity.name.variable.enum-member"
       ],
       "settings": {
-        "foreground": "#98a1c0",
+        "foreground": "#ccab9b",
         "fontStyle": ""
       }
     },
@@ -853,7 +853,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#7abbc0",
+        "foreground": "#80bcc0",
         "fontStyle": ""
       }
     },
@@ -1231,7 +1231,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#80b697"
+        "foreground": "#80b69b"
       }
     },
     {
@@ -1585,7 +1585,7 @@
       "fontStyle": "bold"
     },
     "class": {
-      "foreground": "#7286bb",
+      "foreground": "#798cc0",
       "fontStyle": "bold"
     },
     "recordClass": {
@@ -1609,15 +1609,15 @@
       "fontStyle": ""
     },
     "interface": {
-      "foreground": "#c7937b",
+      "foreground": "#8fa0c4",
       "fontStyle": "bold"
     },
     "enum": {
-      "foreground": "#8d98bd",
+      "foreground": "#c29783",
       "fontStyle": "bold"
     },
     "enumMember": {
-      "foreground": "#98a1c0",
+      "foreground": "#ccab9b",
       "fontStyle": ""
     },
     "field": {
@@ -1625,23 +1625,23 @@
       "fontStyle": ""
     },
     "property": {
-      "foreground": "#7abbc0",
+      "foreground": "#80bcc0",
       "fontStyle": ""
     },
     "function": {
-      "foreground": "#80b697",
+      "foreground": "#80b69b",
       "fontStyle": ""
     },
     "method": {
-      "foreground": "#80b697",
+      "foreground": "#80b69b",
       "fontStyle": ""
     },
     "extensionMethod": {
-      "foreground": "#80b697",
+      "foreground": "#80b69b",
       "fontStyle": "italic"
     },
     "*.async": {
-      "foreground": "#80b697",
+      "foreground": "#80b69b",
       "fontStyle": "bold"
     },
     "delegate": {

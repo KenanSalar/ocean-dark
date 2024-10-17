@@ -6,13 +6,28 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 #### Changes
 
+##### **Ocean Dark Tokyo Style (semantic)**
+
+- **Interface color is now:** `#8fa0c4`
+- **Enum color is now:** `#c29783`
+- **Enum member color is now:** `#ccab9b`
+- **Method/function color is now:** `#80b69b`
+
+---
+
+### Version 1.2.5
+
+#### Changes
+
+##### **Ocean Dark Tokyo Style**
+
 - **Inlay Hints are not more purpleish**
-- **Keywords are now:** `#8a85bb`
-- **Namespace is now:** `#9492a0`
-- **Class is now:** `#7286bb`
-- **Interface is now:** `#c7937b`
-- **Property is now:** `#7abbc0`
-- **Parameter is now:** `#cacaab`
+- **Keyword colors are now:** `#8a85bb`
+- **Namespace color is now:** `#9492a0`
+- **Class color is now:** `#7286bb`
+- **Interface color is now:** `#c7937b`
+- **Property color is now:** `#7abbc0`
+- **Parameter color is now:** `#cacaab`
 - **Type parameter isn't italic anymore**
 
 
