@@ -2,7 +2,7 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
-### Version 1.2.5
+### Version 1.2.6
 
 #### Changes
 
