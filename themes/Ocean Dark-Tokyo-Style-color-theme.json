@@ -488,7 +488,7 @@
         "variable.import.parameter"
       ],
       "settings": {
-        "foreground": "#ccb4c7",
+        "foreground": "#c0a8bb",
         "fontStyle": "italic"
       }
     },
@@ -1649,7 +1649,7 @@
       "fontStyle": ""
     },
     "parameter": {
-      "foreground": "#ccb4c7",
+      "foreground": "#c0a8bb",
       "fontStyle": "italic"
     },
     "typeParameter": {
