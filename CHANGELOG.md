@@ -2,6 +2,16 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.2.8
+
+#### Changes
+
+##### **Ocean Dark Tokyo Style**
+
+- **Parameter color is now:** `#ccb4c7`
+
+---
+
 ### Version 1.2.7
 
 #### Changes
