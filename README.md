@@ -11,14 +11,24 @@ With this theme you can code at night without straining your eyes.
 
 Install the extension from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=kenan-salar.ocean-dark)
 
-**You can use semantic highlighting.**
+**You can use semantic highlighting (recommended).**
 **Put this command in your settings.json:**
 `"editor.semanticHighlighting.enabled": true`
 
 ## Screenshots
 
-#### Default Theme:
+### Ocean Dark Default Theme
 
-![App Screenshot](https://i.postimg.cc/SsRNWgy4/Preview.png)
+![Theme Screenshot](https://i.postimg.cc/FsQfShxJ/Ocean-Dark-Preview1.png)
 
-![App Screenshot](https://i.postimg.cc/26tjTn6Z/Preview2.png)
+![Theme Screenshot](https://i.postimg.cc/WVWMWr3h/Ocean-Dark-Preview2.png)
+
+![Theme Screenshot](https://i.postimg.cc/HHFbHgbm/Ocean-Dark-Preview3.png)
+
+### Ocean Dark Tokyo Style Theme
+
+![Theme Screenshot](https://i.postimg.cc/hcxTt50d/Ocean-Dark-Tokyo-Style-Preview1.png)
+
+![Theme Screenshot](https://i.postimg.cc/Fh4cdVPn/Ocean-Dark-Tokyo-Style-Preview2.png)
+
+![Theme Screenshot](https://i.postimg.cc/nnGmv9gV/Ocean-Dark-Tokyo-Style-Preview3.png)

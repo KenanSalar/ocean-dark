@@ -578,7 +578,7 @@
         "entity.name.variable.enum-member"
       ],
       "settings": {
-        "foreground": "#be9483",
+        "foreground": "#98a1c0",
         "fontStyle": ""
       }
     },
@@ -586,7 +586,7 @@
       "name": "interface",
       "scope": ["variable.other.interface", "entity.name.type.interface"],
       "settings": {
-        "foreground": "#889cc7",
+        "foreground": "#b48877",
         "fontStyle": "bold"
       }
     },
@@ -1231,7 +1231,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#80b68c"
+        "foreground": "#80b697"
       }
     },
     {
@@ -1240,7 +1240,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#889cc7"
+        "foreground": "#b48877"
       }
     },
     {
@@ -1589,24 +1589,20 @@
       "fontStyle": "bold"
     },
     "recordClass": {
-      "foreground": "#b1b6bd",
+      "foreground": "#6792a0",
       "fontStyle": ""
+    },
+    "record": {
+      "foreground": "#6792a0",
+      "fontStyle": "bold"
     },
     "struct": {
       "foreground": "#ac717d",
       "fontStyle": "bold"
     },
     "recordStruct": {
-      "foreground": "#b89b9f",
+      "foreground": "#976973",
       "fontStyle": "bold"
-    },
-    "record": {
-      "foreground": "#bd89b4",
-      "fontStyle": "bold"
-    },
-    "recordComponent": {
-      "foreground": "#ce9dc7",
-      "fontStyle": ""
     },
     "interface": {
       "foreground": "#889cc7",
@@ -1628,20 +1624,24 @@
       "foreground": "#9f95c5",
       "fontStyle": ""
     },
+    "recordComponent": {
+      "foreground": "#9189af",
+      "fontStyle": ""
+    },
     "function": {
-      "foreground": "#80b68c",
+      "foreground": "#80b697",
       "fontStyle": ""
     },
     "method": {
-      "foreground": "#80b68c",
+      "foreground": "#80b697",
       "fontStyle": ""
     },
     "extensionMethod": {
-      "foreground": "#80b68c",
+      "foreground": "#80b697",
       "fontStyle": "italic"
     },
     "*.async": {
-      "foreground": "#80b68c",
+      "foreground": "#80b697",
       "fontStyle": "bold"
     },
     "delegate": {

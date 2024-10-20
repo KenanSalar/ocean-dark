@@ -2,6 +2,36 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.3.0
+
+#### Changes
+
+**(Most of the changes are semantic color changes)**
+
+##### **Ocean Dark Tokyo Style**
+
+- **Parameter color is now slightly darker**
+- **Variable color is now:** `#a6a7bd`
+- **Class color is now:** `#7e80c4`
+- **RecordClass color is now:** `#7273a8`
+- **Record color is now:** `#7273a8`
+- **RecordStruct color is now:** `#8d646c`
+- **Interface color is now:** `#9798ce`
+- **Proptery color is now:** `#7bb4b8`
+- **RecordComponent color is now:** `#709ca0`
+- **Method/function colors are now:** `#80b69d`
+- **Parameter color is now:** `#ada2b3`
+
+##### **Ocean Dark Tokyo Style**
+
+- **RecordClass color is now:** `#6792a0`
+- **Record color is now:** `#6792a0`
+- **RecordStruct color is now:** `#976973`
+- **RecordComponent color is now:** `#9189af`
+- **Method/function colors are now:** `#80b697`
+
+---
+
 ### Version 1.2.9
 
 #### Changes

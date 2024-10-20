@@ -476,7 +476,7 @@
         "markup.fenced_code.block"
       ],
       "settings": {
-        "foreground": "#a6afbd",
+        "foreground": "#a6a7bd",
         "fontStyle": ""
       }
     },
@@ -488,7 +488,7 @@
         "variable.import.parameter"
       ],
       "settings": {
-        "foreground": "#c0a8bb",
+        "foreground": "#ada2b3",
         "fontStyle": "italic"
       }
     },
@@ -550,7 +550,7 @@
         "entity.name.type.cs"
       ],
       "settings": {
-        "foreground": "#798cc0",
+        "foreground": "#7e80c4",
         "fontStyle": "bold"
       }
     },
@@ -853,7 +853,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#80bcc0",
+        "foreground": "#7bb4b8",
         "fontStyle": ""
       }
     },
@@ -1231,7 +1231,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#80b69b"
+        "foreground": "#80b69d"
       }
     },
     {
@@ -1585,31 +1585,27 @@
       "fontStyle": "bold"
     },
     "class": {
-      "foreground": "#798cc0",
+      "foreground": "#7e80c4",
       "fontStyle": "bold"
     },
     "recordClass": {
-      "foreground": "#b1b6bd",
+      "foreground": "#7273a8",
       "fontStyle": ""
+    },
+    "record": {
+      "foreground": "#7273a8",
+      "fontStyle": "bold"
     },
     "struct": {
       "foreground": "#ac717d",
       "fontStyle": "bold"
     },
     "recordStruct": {
-      "foreground": "#b89b9f",
+      "foreground": "#8d646c",
       "fontStyle": "bold"
-    },
-    "record": {
-      "foreground": "#bd89b4",
-      "fontStyle": "bold"
-    },
-    "recordComponent": {
-      "foreground": "#ce9dc7",
-      "fontStyle": ""
     },
     "interface": {
-      "foreground": "#8fa0c4",
+      "foreground": "#9798ce",
       "fontStyle": "bold"
     },
     "enum": {
@@ -1625,23 +1621,27 @@
       "fontStyle": ""
     },
     "property": {
-      "foreground": "#80bcc0",
+      "foreground": "#7bb4b8",
+      "fontStyle": ""
+    },
+    "recordComponent": {
+      "foreground": "#709ca0",
       "fontStyle": ""
     },
     "function": {
-      "foreground": "#80b69b",
+      "foreground": "#80b69d",
       "fontStyle": ""
     },
     "method": {
-      "foreground": "#80b69b",
+      "foreground": "#80b69d",
       "fontStyle": ""
     },
     "extensionMethod": {
-      "foreground": "#80b69b",
+      "foreground": "#80b69d",
       "fontStyle": "italic"
     },
     "*.async": {
-      "foreground": "#80b69b",
+      "foreground": "#80b69d",
       "fontStyle": "bold"
     },
     "delegate": {
@@ -1649,7 +1649,7 @@
       "fontStyle": ""
     },
     "parameter": {
-      "foreground": "#c0a8bb",
+      "foreground": "#ada2b3",
       "fontStyle": "italic"
     },
     "typeParameter": {
