@@ -558,7 +558,7 @@
       "name": "struct",
       "scope": ["variable.other.struct", "entity.name.type.struct"],
       "settings": {
-        "foreground": "#ac717d",
+        "foreground": "#9982ce",
         "fontStyle": "bold"
       }
     },
@@ -578,7 +578,7 @@
         "entity.name.variable.enum-member"
       ],
       "settings": {
-        "foreground": "#ccab9b",
+        "foreground": "#be9bbe",
         "fontStyle": ""
       }
     },
@@ -586,7 +586,7 @@
       "name": "interface",
       "scope": ["variable.other.interface", "entity.name.type.interface"],
       "settings": {
-        "foreground": "#c7937b",
+        "foreground": "#9798ce",
         "fontStyle": "bold"
       }
     },
@@ -1597,11 +1597,11 @@
       "fontStyle": "bold"
     },
     "struct": {
-      "foreground": "#ac717d",
+      "foreground": "#9985c9",
       "fontStyle": "bold"
     },
     "recordStruct": {
-      "foreground": "#8d646c",
+      "foreground": "#7b6aa1",
       "fontStyle": "bold"
     },
     "interface": {
@@ -1609,11 +1609,11 @@
       "fontStyle": "bold"
     },
     "enum": {
-      "foreground": "#c29783",
+      "foreground": "#b890b8",
       "fontStyle": "bold"
     },
     "enumMember": {
-      "foreground": "#ccab9b",
+      "foreground": "#be9bbe",
       "fontStyle": ""
     },
     "field": {

@@ -2,6 +2,32 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.3.1
+
+#### Changes
+
+##### **Ocean Dark Tokyo Style (mostly semantic)**
+
+- **Struct color is now:** `#9985c9`
+- **RecordStruct color is now:** `#7b6aa1`
+- **Enum color is now:** `#b890b8`
+- **EnumMember color is now:** `#be9bbe`
+- **Fixed nonsemantic interface color**
+
+##### **Ocean Dark (mostly semantic)**
+
+- **Class color is now:** `#79a6c4`
+- **RecordClass color is now:** `#648aa3`
+- **Record color is now:** `#648aa3`
+- **Struct color is now:** `#8490c5`
+- **RecordStruct color is now:** `#6c76a1`
+- **Interface color is now:** `#78acb3`
+- **Enum color is now:** `#b090b8`
+- **EnumMember color is now:** `#bc9ec4`
+- **Fixed nonsemantic interface color**
+
+---
+
 ### Version 1.3.0
 
 #### Changes
@@ -22,7 +48,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - **Method/function colors are now:** `#80b69d`
 - **Parameter color is now:** `#ada2b3`
 
-##### **Ocean Dark Tokyo Style**
+##### **Ocean Dark**
 
 - **RecordClass color is now:** `#6792a0`
 - **Record color is now:** `#6792a0`

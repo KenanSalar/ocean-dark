@@ -550,7 +550,7 @@
         "entity.name.type.cs"
       ],
       "settings": {
-        "foreground": "#6da1b3",
+        "foreground": "#79a6c4",
         "fontStyle": "bold"
       }
     },
@@ -558,7 +558,7 @@
       "name": "struct",
       "scope": ["variable.other.struct", "entity.name.type.struct"],
       "settings": {
-        "foreground": "#ac717d",
+        "foreground": "#8490c5",
         "fontStyle": "bold"
       }
     },
@@ -586,7 +586,7 @@
       "name": "interface",
       "scope": ["variable.other.interface", "entity.name.type.interface"],
       "settings": {
-        "foreground": "#b48877",
+        "foreground": "#78acb3",
         "fontStyle": "bold"
       }
     },
@@ -1585,35 +1585,35 @@
       "fontStyle": "bold"
     },
     "class": {
-      "foreground": "#6da1b3",
+      "foreground": "#79a6c4",
       "fontStyle": "bold"
     },
     "recordClass": {
-      "foreground": "#6792a0",
+      "foreground": "#648aa3",
       "fontStyle": ""
     },
     "record": {
-      "foreground": "#6792a0",
+      "foreground": "#648aa3",
       "fontStyle": "bold"
     },
     "struct": {
-      "foreground": "#ac717d",
+      "foreground": "#8490c5",
       "fontStyle": "bold"
     },
     "recordStruct": {
-      "foreground": "#976973",
+      "foreground": "#6c76a1",
       "fontStyle": "bold"
     },
     "interface": {
-      "foreground": "#889cc7",
+      "foreground": "#78acb3",
       "fontStyle": "bold"
     },
     "enum": {
-      "foreground": "#b68673",
+      "foreground": "#b090b8",
       "fontStyle": "bold"
     },
     "enumMember": {
-      "foreground": "#be9483",
+      "foreground": "#bc9ec4",
       "fontStyle": ""
     },
     "field": {
