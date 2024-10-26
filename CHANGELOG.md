@@ -2,6 +2,21 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.3.2
+
+#### Changes
+
+##### **Ocean Dark Tokyo Style**
+
+- **Most syntax colors are now brighter**
+  - This improves readability, especially at daytime
+- **Parameters are now slightly yellow**
+- **Editor background is now a little bit brighter**
+- **Module has now the same color as namespace**
+-- **Operator and puntuation have now the color:** `#9a9fe6`
+
+---
+
 ### Version 1.3.1
 
 #### Changes
