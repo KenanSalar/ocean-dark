@@ -488,7 +488,7 @@
         "variable.import.parameter"
       ],
       "settings": {
-        "foreground": "#bdbea1",
+        "foreground": "#bcbd9d",
         "fontStyle": "italic"
       }
     },
@@ -530,7 +530,7 @@
         "constant.character.character-class.regexp"
       ],
       "settings": {
-        "foreground": "#93b1d1",
+        "foreground": "#98b7d8",
         "fontStyle": "italic"
       }
     },
@@ -558,7 +558,7 @@
       "name": "struct",
       "scope": ["variable.other.struct", "entity.name.type.struct"],
       "settings": {
-        "foreground": "#9982ce",
+        "foreground": "#9c84d4",
         "fontStyle": "bold"
       }
     },
@@ -566,7 +566,7 @@
       "name": "enum",
       "scope": ["variable.other.enum", "entity.name.type.enum"],
       "settings": {
-        "foreground": "#8c96b6",
+        "foreground": "#c491c4",
         "fontStyle": "bold"
       }
     },
@@ -586,7 +586,7 @@
       "name": "interface",
       "scope": ["variable.other.interface", "entity.name.type.interface"],
       "settings": {
-        "foreground": "#9b9cd3",
+        "foreground": "#959fdb",
         "fontStyle": "bold"
       }
     },
@@ -1347,7 +1347,7 @@
         "punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#959fdb"
+        "foreground": "#9d8cce"
       }
     },
     {
@@ -1764,7 +1764,7 @@
       "fontStyle": ""
     },
     "markupAttributeQuote": {
-      "foreground": "#c99d84",
+      "foreground": "#c9a38d",
       "fontStyle": ""
     },
     "razorComment": {
@@ -1796,7 +1796,7 @@
       "fontStyle": ""
     },
     "razorTagHelperAttribute": {
-      "foreground": "#b69564",
+      "foreground": "#bcbd9d",
       "fontStyle": ""
     },
     "markdownHeading": {
