@@ -2,9 +2,15 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+## Changes for Version 1.3.7
+
+- **Method/function color of the Default Theme is now:** `#7fc9a4`
+
+---
+
 ## Changes for Version 1.3.6
 
-- **Method/function color of the Default Theme is now:** `74c799`
+- **Method/function color of the Default Theme is now:** `#74c799`
 
 ---
 
