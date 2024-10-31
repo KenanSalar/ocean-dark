@@ -5,8 +5,6 @@
 A dark and eye friendly theme.
 With this theme you can code at night without straining your eyes.
 
-**Ocean Dark** - The base Ocean Dark Theme
-
 ## Installation
 
 Install the extension from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=kenan-salar.ocean-dark)

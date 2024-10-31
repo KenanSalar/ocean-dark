@@ -618,7 +618,7 @@
         "support.function.construct."
       ],
       "settings": {
-        "foreground": "#89c2a2",
+        "foreground": "#74c799",
         "fontStyle": ""
       }
     },
@@ -1241,7 +1241,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#89c2a2"
+        "foreground": "#74c799"
       }
     },
     {
@@ -1646,19 +1646,19 @@
       "fontStyle": ""
     },
     "function": {
-      "foreground": "#89c2a2",
+      "foreground": "#74c799",
       "fontStyle": ""
     },
     "method": {
-      "foreground": "#89c2a2",
+      "foreground": "#74c799",
       "fontStyle": ""
     },
     "extensionMethod": {
-      "foreground": "#89c2a2",
+      "foreground": "#74c799",
       "fontStyle": "italic"
     },
     "*.async": {
-      "foreground": "#89c2a2",
+      "foreground": "#74c799",
       "fontStyle": "bold"
     },
     "delegate": {
@@ -1785,7 +1785,7 @@
       "fontStyle": ""
     },
     "razorTagHelperElement": {
-      "foreground": "#89c2a2",
+      "foreground": "#74c799",
       "fontStyle": ""
     },
     "razorTagHelperAttribute": {
