@@ -19,16 +19,20 @@ Install the extension from the [Marketplace](https://marketplace.visualstudio.co
 
 ### Ocean Dark Default Theme
 
-![Theme Screenshot](https://i.postimg.cc/FsQfShxJ/Ocean-Dark-Preview1.png)
+![Theme Screenshot](https://i.postimg.cc/Wp1TB74K/Ocean-Dark-Default-Preview1.png)
 
-![Theme Screenshot](https://i.postimg.cc/WVWMWr3h/Ocean-Dark-Preview2.png)
+![Theme Screenshot](https://i.postimg.cc/YkrrLtx3/Ocean-Dark-Default-Preview2.png)
 
-![Theme Screenshot](https://i.postimg.cc/HHFbHgbm/Ocean-Dark-Preview3.png)
+![Theme Screenshot](https://i.postimg.cc/pRyPkk45/Ocean-Dark-Default-Preview3.png)
+
+![Theme Screenshot](https://i.postimg.cc/yBLVF2Qz/Ocean-Dark-Default-Preview4.png)
 
 ### Ocean Dark Tokyo Style Theme
 
-![Theme Screenshot](https://i.postimg.cc/hcxTt50d/Ocean-Dark-Tokyo-Style-Preview1.png)
+![Theme Screenshot](https://i.postimg.cc/1sTsdw1C/Ocean-Dark-Tokyo-Style-Preview1.png)
 
-![Theme Screenshot](https://i.postimg.cc/Fh4cdVPn/Ocean-Dark-Tokyo-Style-Preview2.png)
+![Theme Screenshot](https://i.postimg.cc/1yqs1X99/Ocean-Dark-Tokyo-Style-Preview2.png)
 
-![Theme Screenshot](https://i.postimg.cc/nnGmv9gV/Ocean-Dark-Tokyo-Style-Preview3.png)
+![Theme Screenshot](https://i.postimg.cc/081xkvQ7/Ocean-Dark-Tokyo-Style-Preview3.png)
+
+![Theme Screenshot](https://i.postimg.cc/2zdY3tbM/Ocean-Dark-Tokyo-Style-Preview4.png)

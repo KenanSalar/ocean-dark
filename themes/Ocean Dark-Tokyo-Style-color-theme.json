@@ -1613,11 +1613,11 @@
       "fontStyle": "bold"
     },
     "recordClass": {
-      "foreground": "#6a6daf",
+      "foreground": "#7d81d1",
       "fontStyle": ""
     },
     "record": {
-      "foreground": "#6a6daf",
+      "foreground": "#7d81d1",
       "fontStyle": "bold"
     },
     "struct": {
@@ -1625,7 +1625,7 @@
       "fontStyle": "bold"
     },
     "recordStruct": {
-      "foreground": "#846fb4",
+      "foreground": "#a680d8",
       "fontStyle": "bold"
     },
     "interface": {
@@ -1804,10 +1804,11 @@
       "fontStyle": "bold"
     },
     "xmlDocCommentName": "#467daa",
-    "xmlDocCommentText": "#9e9baa",
+    "xmlDocCommentText": "#a8a9b6",
+    "xmlDocCommentComment": "#9e9baa",
     "xmlDocCommentAttributeName": "#a267a7",
     "xmlDocCommentAttributeValue": "#77a080",
-    "xmlDocCommentAttributeQuotes": "#9b7b54",
+    "xmlDocCommentAttributeQuotes": "#77a080",
     "xmlDocCommentDelimiter": "#879282"
   }
 }

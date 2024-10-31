@@ -2,6 +2,20 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+### Version 1.3.4
+
+#### Changes
+
+##### **Ocean Dark Default**
+
+- **Adjusted html, css, razor, json and mardown syntax to fit the theme**
+- **Most syntax colors are now brighter**
+  - This improves readability, especially at daytime
+
+##### Screenshots updated
+
+---
+
 ### Version 1.3.3
 
 #### Changes
@@ -10,6 +24,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 - **Adjusted html, css, razor, json and mardown syntax to fit the theme**
   - Adjustments to the default theme will come soon
+
 ---
 
 ### Version 1.3.2
