@@ -2,6 +2,12 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+## Changes for Version 1.3.8
+
+- **Method/function color of the Tokyo Style Theme is now:** `#6fc4a7`
+
+---
+
 ## Changes for Version 1.3.7
 
 - **Method/function color of the Default Theme is now:** `#7fc9a4`
