@@ -2,36 +2,34 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
-### Version 1.3.4
+## Changes for Version 1.3.5
 
-#### Changes
+---
 
-##### **Ocean Dark Default**
+## Changes for Version 1.3.4
+
+### **Ocean Dark Default**
 
 - **Adjusted html, css, razor, json and mardown syntax to fit the theme**
 - **Most syntax colors are now brighter**
   - This improves readability, especially at daytime
 
-##### Screenshots updated
+### Screenshots updated
 
 ---
 
-### Version 1.3.3
+## Changes for Version 1.3.3
 
-#### Changes
-
-##### **Ocean Dark Tokyo Style**
+### **Ocean Dark Tokyo Style**
 
 - **Adjusted html, css, razor, json and mardown syntax to fit the theme**
   - Adjustments to the default theme will come soon
 
 ---
 
-### Version 1.3.2
+## Changes for Version 1.3.2
 
-#### Changes
-
-##### **Ocean Dark Tokyo Style**
+### **Ocean Dark Tokyo Style**
 
 - **Most syntax colors are now brighter**
   - This improves readability, especially at daytime
@@ -42,11 +40,9 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.3.1
+## Changes for Version 1.3.1
 
-#### Changes
-
-##### **Ocean Dark Tokyo Style (mostly semantic)**
+### **Ocean Dark Tokyo Style (mostly semantic)**
 
 - **Struct color is now:** `#9985c9`
 - **RecordStruct color is now:** `#7b6aa1`
@@ -54,7 +50,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - **EnumMember color is now:** `#be9bbe`
 - **Fixed nonsemantic interface color**
 
-##### **Ocean Dark (mostly semantic)**
+### **Ocean Dark (mostly semantic)**
 
 - **Class color is now:** `#79a6c4`
 - **RecordClass color is now:** `#648aa3`
@@ -68,13 +64,11 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.3.0
-
-#### Changes
+## Changes for Version 1.3.0
 
 **(Most of the changes are semantic color changes)**
 
-##### **Ocean Dark Tokyo Style**
+### **Ocean Dark Tokyo Style**
 
 - **Parameter color is now slightly darker**
 - **Variable color is now:** `#a6a7bd`
@@ -88,7 +82,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - **Method/function colors are now:** `#80b69d`
 - **Parameter color is now:** `#ada2b3`
 
-##### **Ocean Dark**
+### **Ocean Dark**
 
 - **RecordClass color is now:** `#6792a0`
 - **Record color is now:** `#6792a0`
@@ -98,34 +92,28 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.2.9
+## Changes for Version 1.2.9
 
-#### Changes
-
-##### **Ocean Dark Tokyo Style**
+### **Ocean Dark Tokyo Style**
 
 - **Parameter color is now slightly darker**
 
 ---
-### Version 1.2.8
+## Changes for Version 1.2.8
 
-#### Changes
-
-##### **Ocean Dark Tokyo Style**
+### **Ocean Dark Tokyo Style**
 
 - **Parameter color is now:** `#ccb4c7`
 
 ---
 
-### Version 1.2.7
+## Changes for Version 1.2.7
 
-#### Changes
-
-##### **Ocean Dark Tokyo Style (semantic)**
+### **Ocean Dark Tokyo Style (semantic)**
 
 - **Fixed typo in the tokyo style settings**
 
-##### **Ocean Dark (semantic)**
+### **Ocean Dark (semantic)**
 
 - **Interface color is now:** `#889cc7`
 - **Enum color is now:** `#b68673`
@@ -133,9 +121,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-#### Changes
-
-##### **Ocean Dark Tokyo Style (semantic)**
+### **Ocean Dark Tokyo Style (semantic)**
 
 - **Interface color is now:** `#8fa0c4`
 - **Enum color is now:** `#c29783`
@@ -144,11 +130,9 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.2.5
+## Changes for Version 1.2.5
 
-#### Changes
-
-##### **Ocean Dark Tokyo Style**
+### **Ocean Dark Tokyo Style**
 
 - **Inlay Hints are not more purpleish**
 - **Keyword colors are now:** `#8a85bb`
@@ -159,49 +143,38 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - **Parameter color is now:** `#cacaab`
 - **Type parameter isn't italic anymore**
 
-
 ---
 
-### Version 1.2.4
-
-#### Changes
+## Changes for Version 1.2.4
 
 - **In the tokyo style theme the syntax is adjusted to match the new pupleish look**
 
 ---
 
-### Version 1.2.3
-
-#### Changes
+## Changes for Version 1.2.3
 
 - **Changed the scrollbar color in tokyo style to match the theme**
 
 ---
 
-### Version 1.2.2
-
-#### Changes
+## Changes for Version 1.2.2
 
 - **Fixed hover and border color**
 
 ---
 
-### Version 1.2.1
-
-#### Changes
+## Changes for Version 1.2.1
 
 - **The syntax is now brighter**
 
-#### New
+### New
 
 - **New theme "Ocian Dark Tokyo Style"**
   - **UI (sidebar, activitybar etc.) in tokyo night style but the editor background is way darker with the same syntax color as in ocean dark** 
 
 ---
 
-### Version 1.2.0
-
-#### Changes
+## Changes for Version 1.2.0
 
 - **Punctuation now has the same color as operatos** `#7aa8a3`
 - **UI like activitybar, sidebar etc. is a little darker and has more contrast/color** `#161920`
@@ -210,17 +183,13 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.1.5
-
-#### Changes
+## Changes for Version 1.1.5
 
 - **Variables are now slightly brigher**
 
 ---
 
-### Version 1.1.4
-
-#### Changes
+## Changes for Version 1.1.4
 
 - **Syntax Highlighting is now slightly brigher**
 - **Syntax Highlighting is now slightly brigher**
@@ -229,9 +198,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.1.3
-
-#### Changes
+## Changes for Version 1.1.3
 
 - **Bracked colors:**
 
@@ -255,17 +222,13 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.1.2
-
-#### Changes
+## Changes for Version 1.1.2
 
 - **Changed ui color (activity bar, status bar, top bar, sidebar) to:** `#1A1D24`
 
 ---
 
-### Version 1.1.1
-
-#### Changes
+## Changes for Version 1.1.1
 
 - **Changed ui color (activity bar, status bar, top bar, sidebar) to:** `#181d24`
 - **Changed command center and input background:** `#363e4965`
@@ -274,18 +237,14 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.1.0
-
-#### Changes
+## Changes for Version 1.1.0
 
 - **Changed ui color (activity bar, status bar, top bar, sidebar) to:** `#171c22`
 - **Changed command center and input background:** `#212931`
 
 ---
 
-### Version 1.0.8
-
-#### Changes
+## Changes for Version 1.0.8
 
 - **Changed operator color:** `#77a39e`
 - **Changed operatorOverload color:** `#62aca3`
@@ -293,17 +252,13 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.0.7
-
-#### Changes
+## Changes for Version 1.0.7
 
 - **Changed constant color:** `#a58a7f`
 
 ---
 
-### Version 1.0.6
-
-#### Changes
+## Changes for Version 1.0.6
 
 - **Environment:**
 
@@ -315,17 +270,13 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.0.5
-
-#### Changes
+## Changes for Version 1.0.5
 
 - **Fixed screenshots in the README**
 
 ---
 
-### Version 1.0.4
-
-#### Changes
+## Changes for Version 1.0.4
 
 - **Fixed support variable color for js**
 - **Changed color for meta.object-literal.key to #9890b6**
@@ -334,17 +285,13 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.0.3
-
-#### Changes
+## Changes for Version 1.0.3
 
 - **Changed standard interface color to the semantic one**
 
 ---
 
-### Version 1.0.2
-
-#### Changes
+## Changes for Version 1.0.2
 
 - **Changed delegate and recordClass color**
   There were some bugs with the semantic highlighting, for example if else where highlighted as delegate in razor files, so i changed the delegate color to #736faa (same as the razorDirective color)
@@ -354,17 +301,13 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 1.0.1
-
-#### Changes
+## Changes for Version 1.0.1
 
 - **Fixed field standard color**
 
 ---
 
-### Version 1.0.0
-
-#### Changes
+## Changes for Version 1.0.0
 
 - **Environment:**
 
@@ -385,18 +328,14 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 0.8.0
-
-#### Changes
+## Changes for Version 0.8.0
 
 - Changed keywordControl fontStyle to default
 - TypeParameter is now italic-bold
 
 ---
 
-### Version 0.7.0
-
-#### Changes
+## Changes for Version 0.7.0
 
 - Changed terminal colors:
   ansiRed: #995858
@@ -418,9 +357,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 0.6.0
-
-#### Changes
+## Changes for Version 0.6.0
 
 - Changed variable color to #8cacac
 - Changed class color to #618d9c
@@ -433,9 +370,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 0.5.0
-
-#### Changes
+## Changes for Version 0.5.0
 
 - Changed enum color to #838dad
 - Changed enumMember color to #8c96b8
@@ -443,9 +378,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 0.4.1
-
-#### Changes
+## Changes for Version 0.4.1
 
 - Changed css attribute class color to #71a186
 - Changed css property name color to #7fadad
@@ -460,9 +393,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 0.4.0
-
-#### Changes
+## Changes for Version 0.4.0
 
 - Changed struct color to #996770
 - Changed recordStruct color to #bb9da2
@@ -474,17 +405,14 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed property color to #a297be
 - Changed recordClass color to #5092a8 and made it bold and italic
 
-### Version 0.3.2
-
-#### Changes
+## Changes for Version 0.3.2
 
 - Changed struct color to #7273a7
 
 ---
 
-### Version 0.3.1
+## Changes for Version 0.3.1
 
-#### Changes
 
 - Changed terminal ansi colors to milder colors
 - Changed regex color to #bd9676 and made it italic
@@ -492,9 +420,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 0.3.0
-
-#### Changes
+## Changes for Version 0.3.0
 
 - Changed css attribute id and punctuation to #a0a77d
 - Changed css attribute class and punctuation to #72aa8b
@@ -508,17 +434,13 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 - Changed markdown - markup raw inline to #9175a3
 - Changed markup - plain to #bbc5ce
 
-### Version 0.2.1
-
-#### Changes
+## Changes for Version 0.2.1
 
 - Adjusted enum and enum member colors to #a87290 and #ad879c
 
 ---
 
-### Version 0.2.0
-
-#### Changes
+## Changes for Version 0.2.0
 
 - Changed self parameter color to #6d87a0
 - Changed import keyword color to #6d87a0
@@ -551,9 +473,7 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 0.1.5
-
-#### Changes
+## Changes for Version 0.1.5
 
 - Changed Block Level Variable color to #c57074
 - Changed Other Variable, String Link colors to #c57074
@@ -562,16 +482,14 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 0.1.4
-
-#### Changes
+## Changes for Version 0.1.4
 
 - Changed constant fontstyle to italic
 - Changed JSON level 0-5 colors
 
 ---
 
-### Version 0.1.3
+## Changes for Version 0.1.3
 
 ### Changes
 
@@ -579,24 +497,20 @@ All notable changes to the "ocean-dark-theme" extension will be documented in th
 
 ---
 
-### Version 0.1.2
-
-#### Changes
+## Changes for Version 0.1.2
 
 - Changed banner picture url
 
 ---
 
-### Version 0.1.1
-
-#### Changes
+## Changes for Version 0.1.1
 
 - Changed logo and banner
 - Changed marketplace url
 
 ---
 
-### Version 0.1.0
+## Changes for Version 0.1.0
 
 ### Release
 
