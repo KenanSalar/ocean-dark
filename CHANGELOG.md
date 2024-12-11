@@ -2,6 +2,11 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+## Changes for Version 1.4.0
+
+- **Adjusted keyword colors to make it more readable**
+- **Type parameter have now the same color as classes**
+
 ## Changes for Version 1.3.9
 
 - **Adjusted bracked highlighting and pair guide for both themes**

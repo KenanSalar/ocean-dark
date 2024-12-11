@@ -714,7 +714,7 @@
         "keyword.type.character"
       ],
       "settings": {
-        "foreground": "#84a6c5",
+        "foreground": "#8b9bc7",
         "fontStyle": ""
       }
     },
@@ -726,7 +726,7 @@
         "keyword.control.conditional"
       ],
       "settings": {
-        "foreground": "#84a6c5",
+        "foreground": "#8b9bc7",
         "fontStyle": ""
       }
     },
@@ -737,7 +737,7 @@
         "variable.type.type-parameter"
       ],
       "settings": {
-        "foreground": "#84a6c5",
+        "foreground": "#7caac9",
         "fontStyle": "bold"
       }
     },
@@ -1084,7 +1084,7 @@
         "source.zig keyword.structure"
       ],
       "settings": {
-        "foreground": "#84a6c5"
+        "foreground": "#8b9bc7"
       }
     },
     {
@@ -1546,7 +1546,7 @@
       "name": "html markup element",
       "scope": ["entity.name.tag.html"],
       "settings": {
-        "foreground": "#84a6c5",
+        "foreground": "#8b9bc7",
         "fontStyle": ""
       }
     },
@@ -1574,23 +1574,23 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "keyword": {
-      "foreground": "#84a6c5",
+      "foreground": "#8b9bc7",
       "fontStyle": ""
     },
     "controlKeyword": {
-      "foreground": "#84a6c5",
+      "foreground": "#8b9bc7",
       "fontStyle": ""
     },
     "macro": {
-      "foreground": "#84a6c5",
+      "foreground": "#8b9bc7",
       "fontStyle": ""
     },
     "selfParameter": {
-      "foreground": "#84a6c5",
+      "foreground": "#8b9bc7",
       "fontStyle": ""
     },
     "newOperator": {
-      "foreground": "#84a6c5",
+      "foreground": "#8b9bc7",
       "fontStyle": ""
     },
     "namespace": {
@@ -1670,7 +1670,7 @@
       "fontStyle": "italic"
     },
     "typeParameter": {
-      "foreground": "#84a6c5",
+      "foreground": "#7caac9",
       "fontStyle": "bold"
     },
     "event": {
@@ -1745,7 +1745,7 @@
       "fontStyle": ""
     },
     "markupElement": {
-      "foreground": "#84a6c5",
+      "foreground": "#8b9bc7",
       "fontStyle": ""
     },
     "markupAttribute": {
@@ -1777,7 +1777,7 @@
       "fontStyle": "italic"
     },
     "razorComponentElement": {
-      "foreground": "#84a6c5",
+      "foreground": "#8b9bc7",
       "fontStyle": ""
     },
     "razorComponentAttribute": {
@@ -1793,7 +1793,7 @@
       "fontStyle": ""
     },
     "markdownHeading": {
-      "foreground": "#84a6c5",
+      "foreground": "#8b9bc7",
       "fontStyle": "bold"
     },
     "xmlDocCommentName": "#467daa",
