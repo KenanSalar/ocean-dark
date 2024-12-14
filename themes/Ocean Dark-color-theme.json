@@ -531,7 +531,7 @@
       ],
       "settings": {
         "foreground": "#9ba4db",
-        "fontStyle": "italic"
+        "fontStyle": "bold"
       }
     },
     {
@@ -551,7 +551,7 @@
       ],
       "settings": {
         "foreground": "#7caac9",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -559,7 +559,7 @@
       "scope": ["variable.other.struct", "entity.name.type.struct"],
       "settings": {
         "foreground": "#8a96ce",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -567,7 +567,7 @@
       "scope": ["variable.other.enum", "entity.name.type.enum"],
       "settings": {
         "foreground": "#ba98c2",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -587,7 +587,7 @@
       "scope": ["variable.other.interface", "entity.name.type.interface"],
       "settings": {
         "foreground": "#82bac0",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -738,7 +738,7 @@
       ],
       "settings": {
         "foreground": "#7caac9",
-        "fontStyle": "bold"
+        "fontStyle": "italic"
       }
     },
     {
@@ -1379,7 +1379,7 @@
         "markup.quote markup.bold string"
       ],
       "settings": {
-        "fontStyle": "bold",
+        "fontStyle": "italic bold",
         "foreground": "#b2a6e2"
       }
     },
@@ -1488,7 +1488,7 @@
       ],
       "settings": {
         "foreground": "#7caac9",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -1587,7 +1587,7 @@
     },
     "selfParameter": {
       "foreground": "#8b9bc7",
-      "fontStyle": ""
+      "fontStyle": "italic"
     },
     "newOperator": {
       "foreground": "#8b9bc7",
@@ -1599,11 +1599,11 @@
     },
     "module": {
       "foreground": "#8f95a1",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "class": {
       "foreground": "#7caac9",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "recordClass": {
       "foreground": "#6c95b1",
@@ -1611,23 +1611,23 @@
     },
     "record": {
       "foreground": "#6c95b1",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "struct": {
       "foreground": "#8a96ce",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "recordStruct": {
       "foreground": "#7984b4",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "interface": {
       "foreground": "#82bac0",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "enum": {
       "foreground": "#ba98c2",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "enumMember": {
       "foreground": "#c69dd1",
@@ -1659,7 +1659,7 @@
     },
     "*.async": {
       "foreground": "#7fc9a4",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "delegate": {
       "foreground": "#9ba4db",
@@ -1671,7 +1671,7 @@
     },
     "typeParameter": {
       "foreground": "#7caac9",
-      "fontStyle": "bold"
+      "fontStyle": "italic"
     },
     "event": {
       "foreground": "#c58591",
@@ -1690,11 +1690,12 @@
       "fontStyle": "bold"
     },
     "punctuation": {
-      "foreground": "#8ec9c2"
+      "foreground": "#8ec9c2",
+      "fontStyle": ""
     },
     "constant": {
       "foreground": "#9ba4db",
-      "fontStyle": "italic"
+      "fontStyle": "bold"
     },
     "builtinConstant": {
       "foreground": "#9ba4db",

@@ -2,10 +2,20 @@
 
 All notable changes to the "ocean-dark-theme" extension will be documented in this file.
 
+## Changes for Version 1.4.1
+
+- **Classes, structs, interfaces and records are not bold anymore**
+- **Constants are now bold instead of italic**
+- **Type parameters are now italic**
+
+---
+
 ## Changes for Version 1.4.0
 
 - **Adjusted keyword colors to make it more readable**
 - **Type parameter have now the same color as classes**
+
+---
 
 ## Changes for Version 1.3.9
 
