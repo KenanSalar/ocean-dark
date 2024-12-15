@@ -1786,11 +1786,11 @@
       "fontStyle": ""
     },
     "razorTagHelperElement": {
-      "foreground": "#7fc9a4",
+      "foreground": "#8b9bc7",
       "fontStyle": ""
     },
     "razorTagHelperAttribute": {
-      "foreground": "#c6c7a4",
+      "foreground": "#7dcaca",
       "fontStyle": ""
     },
     "markdownHeading": {

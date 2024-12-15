@@ -3,7 +3,7 @@
   "displayName": "Ocean Dark",
   "description": "A nice relaxing theme, which is easy on the eyes",
   "icon": "resources/ocean-dark-logo.png",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "publisher": "kenan-salar",
   "license": "MIT",
   "repository": {
@@ -34,7 +34,6 @@
     "ocean dark syntax highlighting",
     "ocean dark dark theme",
     "ocean dark color theme",
-    "ocean dark syntax highlighting theme",
     "ocean dark syntax highlighting theme",
     "beautiful",
     "beautiful theme",
